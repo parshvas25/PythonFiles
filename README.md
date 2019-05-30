@@ -6,3 +6,6 @@ This repo will contains various python files each serving their own purpose inde
   
 == pygame.py == 
   contains an initial introduction file for pygame
+  
+== Blackjack.py ==
+  contains blackjack game played by an individual and a       computer
