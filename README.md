@@ -12,3 +12,6 @@ This repo will contains various python files each serving their own purpose inde
   
 == tictactoe.py ==
    tictactoe created in python, use terminal to display tictactoe board
+
+== weather.py ==
+  weather app that retrives real time weather data 
