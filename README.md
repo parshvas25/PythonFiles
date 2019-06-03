@@ -15,3 +15,9 @@ This repository will contains various python files each serving their own purpos
 
 == weather.py ==
   weather app that retrives real time weather data 
+  
+== weather.data ==
+   containas access to weather data api
+ 
+ == app.py ==
+  
