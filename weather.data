@@ -1,0 +1,2 @@
+
+api = "https://api.openweathermap.org/data/2.5/weather?zip={},{}&appid=b9afdec440a1959b3d10963dad34a524"
