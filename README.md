@@ -21,3 +21,6 @@ This repository will contains various python files each serving their own purpos
  
  == app.py ==
    contains first use of flask
+ 
+ == colorrecognition.py ==
+  app that detects color of imported image 
