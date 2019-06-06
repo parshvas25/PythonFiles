@@ -27,3 +27,6 @@ This repository will contains various python files each serving their own purpos
   
  == data_preprocessing_template ==
    sample template for preprocessing data
+ 
+ == compare.py ==
+   compares the correlation between two images
