@@ -30,3 +30,6 @@ This repository will contains various python files each serving their own purpos
  
  == compare.py ==
    compares the correlation between two images
+  
+== module.py ==
+  Simple module
