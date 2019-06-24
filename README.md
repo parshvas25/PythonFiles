@@ -32,6 +32,6 @@ This repository contains python files independent of eachother each serving thei
    compares the correlation between two images
    
  == dev.py ==
- Pygame window movement animation, and screen display
+ Pygame window animation
   
 
