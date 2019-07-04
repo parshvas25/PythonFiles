@@ -1,6 +1,6 @@
 # PythonFiles
 
-This repository contains python files independent of eachother each serving their own purpose
+This repository contains python files which serve different purposes
 
 == timeit.py == 
   contains a file which tests the time to traverse different sizes of lists
