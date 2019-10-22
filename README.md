@@ -34,5 +34,8 @@ This repository contains python files which serve different purposes
    
  == dev.py ==
  Pygame window animation
+ 
+ 
+ This repo will be updated on a consistent basis to add the use of a variety of different python libraries
   
 
